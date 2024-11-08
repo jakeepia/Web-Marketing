@@ -52,9 +52,24 @@ This bar chart displays the top 10 page titles by page views, highlighting the m
 
 The line graph in the bottom left tracks session trends over 2018 and 2019, providing a historical view of user engagement.
 
+## Vital Insights and Observations
 
+- **User Engagement:** The high number of unique pageviews (624,704) indicates strong user interest and engagement with site content.
+- **Bounce Rate and Exits:** With 90,216 bounces and 139,310 exits, understanding which pages have the highest bounce and exit rates could inform adjustments in content strategy or design.
+- **Average Page Load Time:** At 72 seconds, the page load time is relatively high. Reducing load time could improve user experience and decrease bounce rates.
+- **Device Usage:** While desktop users represent the majority, mobile traffic is significant, warranting a continued focus on optimizing the mobile experience.
+- **Page Popularity:** The top 10 pages account for a significant portion of overall views, suggesting that they are critical touchpoints in the user journey and should be prioritized for content updates and optimization.
 
+## Recommendations
 
+1. **Improve Page Load Time:** Lower the average page load time from 72 seconds to improve user satisfaction and reduce bounce rates, particularly for mobile users where slower load times can impact retention.
+2. **Optimize Mobile Experience:** Given the significant share of mobile users, consider optimizing site performance, navigation, and layout for mobile devices to boost engagement.
+3. **Content Strategy for High-Bounce Pages:** Identify pages with high bounce rates and evaluate them for improvements. Adjust content and design to encourage users to explore more of the site.
+4. **Focus on High-Engagement Pages:** Use the insights from the top 10 pageviews to create content that aligns with what users find valuable and engaging, potentially replicating successful elements across other pages.
+5. **Seasonal Campaign Planning:** Based on the monthly session trends, plan marketing campaigns around peak months like August to capitalize on natural traffic increases.
+
+## Conclusion
+This documentation provides a comprehensive view of the Web Marketing Analysis and highlights the insights and recommendations for potential improvements. The dashboard showcases my ability to leverage Tableau for web traffic analysis, derive actionable insights, and create data-driven recommendations to enhance user engagement and optimize website performance.
 
 
 
